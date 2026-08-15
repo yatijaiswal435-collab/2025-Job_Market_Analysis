@@ -37,7 +37,7 @@ The dashboard looks at the market from both a **job-seeker** and **business-anal
 
 ## 🖼️ Dashboard Preview
 
-![Job Market Analysis Dashboard](screenshots/Job_Market_Analysis_Dashboard.png)
+![2025-JOb_Market_Analysis](screenshots/Job_Market_Analysis_Dashboard.png)
 
 ## 📈 Key Areas of Analysis
 
